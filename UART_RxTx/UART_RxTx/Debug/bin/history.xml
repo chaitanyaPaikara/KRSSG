@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.2.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=UART_RxTx.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\UART_Tx -TC:\CooCox\CoIDE\configuration\ProgramData\UART_Tx/arm-gcc-link.ld -g">
+      <target file="UART_RxTx.elf" lastModified="153fab5b242">
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="153fa685d50"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="153fa685e0a"/>
+         <source file="..\obj\main.o" lastModified="153fab5afc1"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="153fa68606d"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="153fa68619b"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="153fa686289"/>
+         <source file="..\obj\syscalls.o" lastModified="153fa6865ab"/>
+      </target>
+   </processor>
+</history>

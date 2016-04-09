@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.2.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=EXT_Interrupt.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\EXT_Interrupt -TC:\CooCox\CoIDE\configuration\ProgramData\EXT_Interrupt/arm-gcc-link.ld -g">
+      <target file="EXT_Interrupt.elf" lastModified="153faaef844">
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="153fa922adc"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="153fa922b99"/>
+         <source file="..\obj\main.o" lastModified="153faaef5a3"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="153fa922ea2"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="153fa922fca"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="153fa9230be"/>
+         <source file="..\obj\syscalls.o" lastModified="153fa9231b0"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="153fa9232ae"/>
+         <source file="..\obj\misc.o" lastModified="153fa9233a5"/>
+      </target>
+   </processor>
+</history>

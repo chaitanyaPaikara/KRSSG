@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.2.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=TIMER_Delay.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\TIMER_Delay -TC:\CooCox\CoIDE\configuration\ProgramData\TIMER_Delay/arm-gcc-link.ld -g">
+      <target file="TIMER_Delay.elf" lastModified="15375d63f56">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="153755c579b"/>
+         <source file="..\obj\main.o" lastModified="15375d63cfc"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="153755c5a3a"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="153755c5b47"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="153755c5c2f"/>
+         <source file="..\obj\syscalls.o" lastModified="153755c5ed6"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="153755c61c4"/>
+      </target>
+   </processor>
+</history>
